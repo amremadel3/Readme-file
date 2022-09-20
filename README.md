@@ -1,5 +1,5 @@
 # Project Title
-..**Landing Page**
+    **Landing Page**
 
 # Table of contents
 - [Project Title](#project-title)
