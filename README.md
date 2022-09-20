@@ -1,21 +1,21 @@
-##Project Title
+# Project Title
 Landing Page
 
-#Table of contents
+# Table of contents
 - [Project Title](#project-title)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Discription](#discription)
 
-#Installation
+# Installation
 [(Back to top)](#table-of-contents)
 To use this project, first Unzip the file on any folder on your device
 then open the index file with "chrome" or any other browser
 if you want to view the landing page with all its function
 
 
-#Usage
+# Usage
 [(Back to top)](#table-of-contents)
 ...Use the buttons to navigate to sections...
 ...You will notice that with each section you view it gets highlighted...
