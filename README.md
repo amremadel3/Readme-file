@@ -1,5 +1,5 @@
 # Project Title
-Landing Page
+   ***Landing Page***
 
 # Table of contents
 - [Project Title](#project-title)
@@ -23,7 +23,7 @@ if you want to view the landing page with all its function
 
 Use the buttons to navigate to sections.  
 
-You will notice that with each section you view it gets highlighted.
+You will notice that with each section you view it gets highlighted.  
 
 # Discription
 [Back to top](#project-title)  
