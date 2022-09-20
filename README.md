@@ -9,7 +9,7 @@ Landing Page
 - [Discription](#discription)
 
 # Installation
-[Back to top](#project-title).
+[Back to top](#project-title).../
 To use this project, first Unzip the file on any folder on your device
 then open the index file with "chrome" or any other browser
 if you want to view the landing page with all its function
